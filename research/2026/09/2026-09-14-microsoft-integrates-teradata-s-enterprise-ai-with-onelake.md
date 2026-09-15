@@ -14,3 +14,7 @@ This integration simplifies the data pipeline by eliminating the need to move or
 ## Details
 
 The integration leverages open Apache Iceberg standards, allowing Teradata users to query OneLake tables in place using standard Iceberg APIs. Cross-platform authentication and access controls are handled natively, facilitating seamless data analysis without the need for data consolidation into a single system or rebuilding governance frameworks. This development is particularly beneficial for enterprises that utilize both Teradata and Microsoft Fabric environments, as it streamlines data operations and enhances the performance of AI-driven analytics. ([nasdaq.com](https://www.nasdaq.com/press-release/teradata-brings-enterprise-ai-directly-microsoft-onelake-2026-09-02?utm_source=openai))
+
+## Sources
+
+- ([nasdaq.com](https://www.nasdaq.com/press-release/teradata-brings-enterprise-ai-directly-microsoft-onelake-2026-09-02?utm_source=openai))
