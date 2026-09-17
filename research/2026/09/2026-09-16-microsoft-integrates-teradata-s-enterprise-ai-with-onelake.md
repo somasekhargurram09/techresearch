@@ -14,3 +14,8 @@ This integration streamlines data workflows by allowing organizations to perform
 ## Details
 
 The collaboration between Teradata and Microsoft aims to enhance the efficiency and scalability of enterprise AI initiatives by eliminating the need for data replication and migration. This approach not only simplifies data management but also accelerates the deployment of AI models by providing direct access to data stored in OneLake. The integration is built upon open-source standards, ensuring compatibility and flexibility across different platforms and environments. ([nasdaq.com](https://www.nasdaq.com/press-release/teradata-brings-enterprise-ai-directly-microsoft-onelake-2026-09-02?utm_source=openai))
+
+## Sources
+
+- [Teradata Brings Enterprise AI Directly to Microsoft OneLake](https://www.nasdaq.com/press-release/teradata-brings-enterprise-ai-directly-microsoft-onelake-2026-09-02)
+- [Microsoft Fabric in GCC High: Building the data foundation for AI](https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/02/microsoft-fabric-in-gcc-high-building-the-data-foundation-for-ai/)
