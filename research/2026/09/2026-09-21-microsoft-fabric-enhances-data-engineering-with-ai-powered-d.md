@@ -14,3 +14,8 @@ The integration of AI-powered Data Agents into Microsoft Fabric represents a sig
 ## Details
 
 Microsoft Fabric's Data Agents are designed to work across various data sources, including lakehouses, warehouses, Power BI semantic models, KQL databases, and ontologies. Users can configure these agents with custom instructions, examples, and domain-specific guidance to improve response relevance. The agents integrate with Microsoft Foundry, Copilot Studio, and Microsoft 365 Copilot to extend capabilities from conversational analytics to AI workflows. For instance, Foundry IQ provides a shared context layer where Data Agents contribute structured business insights alongside other agents, enabling multistep reasoning and orchestration across enterprise systems. Copilot Studio allows embedding these agents as custom skills in Teams, web apps, or line-of-business applications, injecting live business context into Copilot prompts and combining Q&A with workflow automation. The integration with Microsoft 365 Copilot lets these agents surface governed, ontology-driven insights directly within productivity tools like Outlook, Excel, and Teams, combining conversational analytics with workflow automation. ([learn.microsoft.com](https://learn.microsoft.com/en-us/fabric/fundamentals/analyze-train-data?utm_source=openai))
+
+## Sources
+
+- [Microsoft Learn: Analyze and train data in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/fundamentals/analyze-train-data)
+- [Microsoft Learn: Create a Fabric data agent](https://learn.microsoft.com/en-us/fabric/data-science/how-to-create-data-agent)
