@@ -14,3 +14,7 @@ As enterprises increasingly adopt AI and cloud technologies, the complexity of m
 ## Details
 
 Equinix Fabric One is built to address the networking complexity of the AI era. It utilizes open connectivity specifications developed by AWS and Google Cloud to support interoperability across distributed cloud, AI, and enterprise environments. Customers can specify their connectivity needs, and Equinix Fabric One determines and delivers the required connections. This service aims to simplify how enterprises connect their distributed infrastructures, facilitating seamless integration and data flow across various platforms. ([newsroom.equinix.com](https://newsroom.equinix.com/2026-09-02-Equinix-Unveils-Equinix-Fabric-One%2C-Redefining-How-Enterprises-Connect-Across-AI%2C-Cloud-and-Networking-Infrastructure?utm_source=openai))
+
+## Sources
+
+- [Equinix Unveils Equinix Fabric One, Redefining How Enterprises Connect Across AI, Cloud and Networking Infrastructure](https://newsroom.equinix.com/2026-09-02-Equinix-Unveils-Equinix-Fabric-One%2C-Redefining-How-Enterprises-Connect-Across-AI%2C-Cloud-and-Networking-Infrastructure)
