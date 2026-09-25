@@ -14,3 +14,7 @@ As enterprises increasingly adopt AI and automation, the quality and context of 
 ## Details
 
 The new application-aware infrastructure mapping allows IP Fabric to map network data with an understanding of the applications running on top of it. This approach ensures that network configurations and performance metrics are contextualized within the operational needs of the applications they support. The redesigned cloud-native data model enhances scalability and flexibility, accommodating the dynamic nature of modern enterprise environments. These developments position IP Fabric as a pivotal tool for organizations seeking to optimize their network operations through advanced data engineering and AI-driven insights.
+
+## Sources
+
+- [IP Fabric Expands Its Network Digital Twin with Application Awareness and a Cloud-Native Model](https://www.globenewswire.com/de/news-release/2026/09/23/3367541/0/en/ip-fabric-expands-its-network-digital-twin-with-application-awareness-and-a-cloud-native-model.html)
