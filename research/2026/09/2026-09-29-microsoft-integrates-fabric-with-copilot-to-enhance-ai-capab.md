@@ -10,3 +10,7 @@ Microsoft has announced an integration between Fabric IQ and Microsoft Copilot, 
 ## Why It Matters
 
 This development is significant as it positions Microsoft Fabric as a central platform for AI integration, streamlining data management and analytics. By embedding AI capabilities directly into Fabric, Microsoft aims to enhance the efficiency and scalability of AI applications, providing a unified environment for data engineers and AI practitioners. The introduction of IQ sharing and direct connections to various data sources without duplication addresses common challenges in data governance and integration, potentially accelerating AI adoption across enterprises.
+
+## Details
+
+The integration between Fabric IQ and Copilot allows AI agents to access consistent business logic, ensuring that AI-driven processes are grounded in the organization's specific context. IQ sharing facilitates the secure sharing of data and context, promoting collaboration and data-driven decision-making within and between organizations. The new capabilities in Fabric Apps enable developers to build applications that interact directly with various data sources, including Fabric warehouses, SQL databases, lakehouses, and Power BI semantic models, without the need for data duplication. This approach reduces data redundancy and potential inconsistencies, leading to more reliable and efficient AI applications. ([techtarget.com](https://www.techtarget.com/data-technologies/news/366651515/Microsoft-transforming-Fabric-into-AIs-foundational-layer?utm_source=openai))
