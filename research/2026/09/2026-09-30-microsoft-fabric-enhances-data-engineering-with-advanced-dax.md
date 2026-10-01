@@ -10,3 +10,7 @@ Microsoft has introduced advanced DAX (Data Analysis Expressions) generation cap
 ## Why It Matters
 
 The integration of advanced DAX generation into Microsoft Fabric addresses the growing need for sophisticated data analysis tools that can handle complex queries and large datasets. By allowing data agents to autonomously generate and execute DAX queries, Microsoft Fabric enhances the platform's capability to deliver more precise and insightful analytics. This advancement is particularly beneficial for organizations seeking to leverage their data for strategic decision-making and operational optimization.
+
+## Details
+
+The new advanced DAX generation feature is currently in preview and is part of the broader enhancements in Microsoft Fabric's data science capabilities. This development follows the August 2026 integration of Fabric Data Agent with Microsoft Copilot Studio, which added a Fabric data agent to a Copilot Studio agent as a Fabric IQ Data MCP tool while retaining source permissions. Additionally, in August 2026, Microsoft introduced enhanced data agent visualizations with Fabric visuals, allowing data agents to return interactive charts and graphs alongside text and tables. ([learn.microsoft.com](https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new?utm_source=openai))
