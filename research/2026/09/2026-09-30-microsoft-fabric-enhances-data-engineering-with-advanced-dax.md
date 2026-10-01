@@ -14,3 +14,8 @@ The integration of advanced DAX generation into Microsoft Fabric addresses the g
 ## Details
 
 The new advanced DAX generation feature is currently in preview and is part of the broader enhancements in Microsoft Fabric's data science capabilities. This development follows the August 2026 integration of Fabric Data Agent with Microsoft Copilot Studio, which added a Fabric data agent to a Copilot Studio agent as a Fabric IQ Data MCP tool while retaining source permissions. Additionally, in August 2026, Microsoft introduced enhanced data agent visualizations with Fabric visuals, allowing data agents to return interactive charts and graphs alongside text and tables. ([learn.microsoft.com](https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new?utm_source=openai))
+
+## Sources
+
+- [Microsoft Learn: What's New in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new)
+- [Microsoft's Official Blog: New Microsoft Data Innovations Unlock What Only Your Business Knows](https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/)
