@@ -2,3 +2,11 @@
 
 **Date:** 2026-09-30
 **Category:** Data Engineering
+
+## What Happened
+
+Microsoft has introduced advanced DAX (Data Analysis Expressions) generation capabilities for Fabric data agents in September 2026. This feature enables data agents to plan their approach, inspect semantic model values and intermediate results, refine their reasoning, and execute a final DAX query before providing answers. This enhancement aims to improve the efficiency and accuracy of data analysis within the Microsoft Fabric platform. ([learn.microsoft.com](https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new?utm_source=openai))
+
+## Why It Matters
+
+The integration of advanced DAX generation into Microsoft Fabric addresses the growing need for sophisticated data analysis tools that can handle complex queries and large datasets. By allowing data agents to autonomously generate and execute DAX queries, Microsoft Fabric enhances the platform's capability to deliver more precise and insightful analytics. This advancement is particularly beneficial for organizations seeking to leverage their data for strategic decision-making and operational optimization.
