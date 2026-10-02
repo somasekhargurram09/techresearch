@@ -10,3 +10,13 @@ At the NetApp Insight 2026 conference in Las Vegas, CEO George Kurian introduced
 ## Why It Matters
 
 As AI applications become more complex, the demand for robust data infrastructure grows. Traditional storage solutions often struggle to keep up with the performance needs of AI workloads, leading to inefficiencies and increased operational costs. NetApp's Novus addresses these challenges by providing a scalable and efficient storage solution tailored for AI environments, potentially setting a new industry standard for AI-optimized data engineering.
+
+## Details
+
+- **Throughput and Scalability:** Novus delivers throughput up to 100Tbps and supports zettabyte-scale storage, accommodating the massive data requirements of AI applications.
+
+- **Independent Scaling:** The architecture allows for independent scaling of metadata and storage, reducing bottlenecks and improving overall system performance.
+
+- **Energy Efficiency:** By optimizing storage processes, Novus reduces power consumption by 31%, contributing to more sustainable data operations.
+
+- **Industry Collaboration:** Partnerships with Lambda and Nvidia have enabled the demonstration of real-world use cases, highlighting the practical benefits of Novus in AI settings.
