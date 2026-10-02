@@ -20,3 +20,7 @@ As AI applications become more complex, the demand for robust data infrastructur
 - **Energy Efficiency:** By optimizing storage processes, Novus reduces power consumption by 31%, contributing to more sustainable data operations.
 
 - **Industry Collaboration:** Partnerships with Lambda and Nvidia have enabled the demonstration of real-world use cases, highlighting the practical benefits of Novus in AI settings.
+
+## Sources
+
+- [NetApp Insight 2026 live: All the talking points from the day-two keynote session](https://www.itpro.com/cloud/live/netapp-insight-2026-live-all-the-news-updates-and-announcements-from-las-vegas)
