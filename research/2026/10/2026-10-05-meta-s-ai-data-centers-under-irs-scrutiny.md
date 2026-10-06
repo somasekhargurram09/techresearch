@@ -10,3 +10,11 @@ Meta Platforms Inc. has been under scrutiny by the U.S. Internal Revenue Service
 ## Why It Matters
 
 The IRS's investigation into Meta's tax strategy raises questions about the legitimacy of such claims and the broader implications for corporate tax practices. The outcome of this scrutiny could influence how other tech companies approach tax incentives related to AI infrastructure investments. Additionally, the investigation highlights the complexities and potential risks associated with large-scale AI data center operations.
+
+## Details
+
+Meta's auditor, Ernst & Young (EY), endorsed this approach and recommended it to other companies. However, the company's rising tax reserve—from $12.9 billion to $18.74 billion in two years—signals internal concern about potential IRS challenges, especially regarding the legitimacy of these claims. A former EY tax adviser criticized the tactic, suggesting Meta is taking significant tax positions that might be legally disputed. Additionally, Meta faces a separate IRS investigation over $16 billion in taxes and penalties related to profit transfers to the Cayman Islands. ([techradar.com](https://www.techradar.com/pro/meta-told-the-irs-its-ai-data-centers-are-experimental-to-shave-usd6-billion-off-its-tax-bill?utm_source=openai))
+
+## Sources
+
+- [Meta told the IRS its AI data centers are experimental to shave $6 billion off its tax bill](https://www.techradar.com/pro/meta-told-the-irs-its-ai-data-centers-are-experimental-to-shave-usd6-billion-off-its-tax-bill)
