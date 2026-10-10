@@ -14,3 +14,8 @@ The integration of the data engineering agent into Microsoft Fabric represents a
 ## Details
 
 The data engineering agent is currently in preview and is designed to handle long-running projects rather than one-off tasks. Developers can describe the desired outcome and grant access to the relevant Fabric assets, after which the agent plans, executes, validates, and refines the work over hours or days. This includes creating notebooks, transforming data, updating schemas, and managing complex workflows. The agent is integrated with Fabric's existing features, such as Fabric IQ for ontology management and Fabric Observability Insights for monitoring, to provide a comprehensive solution for data engineering needs. ([dataphoenix.info](https://dataphoenix.info/news/microsoft-fabric-data-engineering-agent-azure-sql-tools?utm_source=openai))
+
+## Sources
+
+- [Microsoft previews Fabric data engineering agent and expands Azure SQL tools](https://dataphoenix.info/news/microsoft-fabric-data-engineering-agent-azure-sql-tools)
+- [Microsoft updates Fabric for agentic transformation](https://www.cio.com/article/4227790/microsoft-updates-fabric-for-agentic-transformation.html)
