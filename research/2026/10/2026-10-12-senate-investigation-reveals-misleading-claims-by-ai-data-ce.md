@@ -14,3 +14,7 @@ The findings of this investigation have significant implications for both the AI
 ## Details
 
 The Senate's year-long investigation into AI data centers has revealed that developers often emphasize the creation of temporary construction jobs but fail to disclose the minimal number of permanent positions that remain once operations commence. This lack of transparency has raised concerns among lawmakers about the true economic impact of these facilities on local communities. Senators Elizabeth Warren and Chris Van Hollen have criticized the developers for not being forthcoming about the limited long-term employment opportunities and the substantial tax incentives they receive. The investigation also highlights the reluctance of major tech companies to invest in necessary infrastructure improvements, such as new power lines and plants, despite their significant energy consumption. This situation has prompted calls for more stringent regulations and greater accountability within the AI infrastructure sector.
+
+## Sources
+
+- [Senate investigation says that some AI data center claims are misleading](https://www.tomshardware.com/tech-industry/data-centers/senate-investigation-says-that-some-ai-data-center-claims-are-misleading-senators-question-number-of-permanent-jobs-projects-bring-to-communities-but-companies-refuse-to-divulge-data)
