@@ -10,3 +10,7 @@ A U.S. Senate investigation has uncovered that AI data center developers may be 
 ## Why It Matters
 
 The findings of this investigation have significant implications for both the AI industry and the communities hosting these data centers. The discrepancy between promised and actual economic benefits could lead to increased public scrutiny and potential regulatory actions. For investors, particularly those holding shares in companies involved in AI data centers, this development may affect stock performance and future growth prospects.
+
+## Details
+
+The Senate's year-long investigation into AI data centers has revealed that developers often emphasize the creation of temporary construction jobs but fail to disclose the minimal number of permanent positions that remain once operations commence. This lack of transparency has raised concerns among lawmakers about the true economic impact of these facilities on local communities. Senators Elizabeth Warren and Chris Van Hollen have criticized the developers for not being forthcoming about the limited long-term employment opportunities and the substantial tax incentives they receive. The investigation also highlights the reluctance of major tech companies to invest in necessary infrastructure improvements, such as new power lines and plants, despite their significant energy consumption. This situation has prompted calls for more stringent regulations and greater accountability within the AI infrastructure sector.
