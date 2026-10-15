@@ -14,3 +14,8 @@ This move signifies a strategic shift in Microsoft's approach to AI and data eng
 ## Details
 
 The initiative focuses on enhancing local AI processing capabilities, allowing for software generation directly on personal computers. This approach leverages Microsoft's Copilot, an AI assistant, and the new MAI-Code-1.1 Flash model, which together facilitate the creation of software without incurring additional cloud token costs. The integration into Fabric aims to provide a cohesive environment for developing and deploying AI applications, emphasizing the interconnectedness of Microsoft's platforms. ([techradar.com](https://www.techradar.com/pro/satya-nadella-wants-your-pc-to-become-an-infinite-software-factory-in-final-blow-to-the-app-store-concept-but-im-afraid-businesses-wont-bite-the-ai-apple?utm_source=openai))
+
+## Sources
+
+- [Microsoft CEO Satya Nadella's Vision for AI Integration](https://www.techradar.com/pro/satya-nadella-wants-your-pc-to-become-an-infinite-software-factory-in-final-blow-to-the-app-store-concept-but-im-afraid-businesses-wont-bite-the-ai-apple)
+- [Microsoft's Strategy to Position Fabric as AI's Foundational Layer](https://www.techtarget.com/data-technologies/news/366651515/Microsoft-transforming-Fabric-into-AIs-foundational-layer)
