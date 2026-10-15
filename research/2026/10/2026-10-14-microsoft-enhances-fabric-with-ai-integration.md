@@ -10,3 +10,7 @@ On October 7, 2026, Microsoft CEO Satya Nadella unveiled a vision to transform p
 ## Why It Matters
 
 This move signifies a strategic shift in Microsoft's approach to AI and data engineering. By embedding AI capabilities directly into personal computing devices, Microsoft aims to reduce reliance on cloud infrastructure, potentially lowering costs and improving performance for AI-driven applications. The integration of Copilot and MAI-Code-1.1 Flash into Fabric could streamline the development of AI solutions, making them more accessible and efficient for a broader range of users.
+
+## Details
+
+The initiative focuses on enhancing local AI processing capabilities, allowing for software generation directly on personal computers. This approach leverages Microsoft's Copilot, an AI assistant, and the new MAI-Code-1.1 Flash model, which together facilitate the creation of software without incurring additional cloud token costs. The integration into Fabric aims to provide a cohesive environment for developing and deploying AI applications, emphasizing the interconnectedness of Microsoft's platforms. ([techradar.com](https://www.techradar.com/pro/satya-nadella-wants-your-pc-to-become-an-infinite-software-factory-in-final-blow-to-the-app-store-concept-but-im-afraid-businesses-wont-bite-the-ai-apple?utm_source=openai))
