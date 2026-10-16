@@ -14,3 +14,8 @@ The integration of Fabric IQ with Copilot signifies Microsoft's commitment to ad
 ## Details
 
 At the European Microsoft Fabric + SQL Community Conference in Barcelona, Microsoft announced the integration of Fabric IQ with Copilot. Fabric IQ serves as a context layer within Microsoft IQ, providing consistent business logic to AI applications. The integration enables users to share governed data and context across their organization and with third parties, enhancing collaboration and data accessibility. Additionally, Microsoft introduced capabilities in Fabric Apps that allow developers to connect applications directly to Fabric warehouses, SQL databases, lakehouses, and Power BI semantic models without duplicating data. ([techtarget.com](https://www.techtarget.com/data-technologies/news/366651515/Microsoft-transforming-Fabric-into-AIs-foundational-layer?utm_source=openai))
+
+## Sources
+
+- [Microsoft transforming Fabric into AI's foundational layer](https://www.techtarget.com/data-technologies/news/366651515/Microsoft-transforming-Fabric-into-AIs-foundational-layer)
+- [Microsoft Unveils Fabric and AI Updates](https://www.aib.vote/en/news/microsoft-fabric-iq-copilot-data-platform)
