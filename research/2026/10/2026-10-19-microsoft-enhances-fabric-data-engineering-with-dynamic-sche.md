@@ -14,3 +14,7 @@ This development is significant for data engineers and organizations that manage
 ## Details
 
 The Dynamic Schema feature in Dataflow Gen2 is particularly valuable in scenarios where schemas naturally change over time. It supports faster iteration by allowing updates to transformations without waiting for schema alignment. Additionally, it simplifies migrations from common Gen1 and self-service scenarios that rely on schema evolution. This capability aligns Dataflow Gen2 more closely with the flexible, modern data engineering patterns supported across Microsoft Fabric. ([fabric-gps.com](https://www.fabric-gps.com/release/8ed33294-5a38-f111-88b5-6045bd00fc61?utm_source=openai))
+
+## Sources
+
+- [Dataflows - Dynamic Schema Support for Fabric Data Warehouse Destination — Microsoft Fabric Roadmap | Fabric GPS](https://www.fabric-gps.com/release/8ed33294-5a38-f111-88b5-6045bd00fc61)
