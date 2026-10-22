@@ -16,3 +16,8 @@ The decline in data center stocks underscores a broader market reassessment of t
 Cipher Digital, a company specializing in high-performance computing infrastructure, priced a zero-coupon convertible note offering to fund its Barber Lake HPC expansion and new development sites. This move has intensified concerns about the company's ability to manage debt and deliver on its expansion plans without adversely affecting shareholder value. ([aol.com](https://www.aol.com/articles/data-center-stocks-tumble-financing-134446000.html?utm_source=openai))
 
 Similarly, Applied Digital, another player in the data center sector, saw its stock price decline by 6% amid similar financing concerns. The market's reaction highlights the growing emphasis on financial prudence and the need for clear paths to profitability in the rapidly evolving data center industry. ([aol.com](https://www.aol.com/articles/data-center-stocks-tumble-financing-134446000.html?utm_source=openai))
+
+## Sources
+
+- [Data Center Stocks Tumble as Financing Costs Draw Scrutiny: Cipher Digital Drops 9% — NewsMeter](https://www.newsmeter.info/news/data-center-stocks-tumble-as-financing-costs-draw-scrutiny-cipher-digital-drops/)
+- [Data Center Stocks Tumble as Financing Costs Draw Scrutiny: Cipher Digital Drops 9% — AOL](https://www.aol.com/articles/data-center-stocks-tumble-financing-134446000.html)
