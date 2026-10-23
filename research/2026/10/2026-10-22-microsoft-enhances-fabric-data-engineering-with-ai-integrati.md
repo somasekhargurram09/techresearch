@@ -24,3 +24,7 @@ The AI enhancements in Microsoft Fabric Data Engineering include:
 - **Production Readiness:** New features have been designed with a focus on stability and reliability, ensuring that data engineering solutions are robust and scalable.
 
 These features are part of Microsoft's ongoing efforts to integrate AI into its data engineering tools, aiming to provide a more efficient and user-friendly experience for data professionals. ([directionsonmicrosoft.com](https://www.directionsonmicrosoft.com/roadmaps/ref/fabric-data-engineering-roadmap/?utm_source=openai))
+
+## Sources
+
+- [Fabric Data Engineering - Directions on Microsoft](https://www.directionsonmicrosoft.com/roadmaps/ref/fabric-data-engineering-roadmap/)
