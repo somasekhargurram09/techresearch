@@ -18,3 +18,9 @@ Anthropic's IPO filing underscores the immense financial and ethical considerati
 - **AI Risks:** The filing outlines potential risks such as malicious uses of AI, autonomous systems escaping human control, and existential threats to humanity. ([apnews.com](https://apnews.com/article/ca2f4c282bef3201a392e59e3df2300c?utm_source=openai))
 
 - **Regulatory Scrutiny:** The FTC has issued civil investigative demands seeking documents related to AI safety incidents, security practices, and privacy policies, indicating heightened regulatory oversight in the AI industry. ([axios.com](https://www.axios.com/2026/10/26/ftc-ai-safety-probe-anthropic-openai?utm_source=openai))
+
+## Sources
+
+- [Anthropic's IPO Filing Highlights AI Risks and Regulatory Scrutiny](https://www.axios.com/2026/10/26/anthropic-ipo-risk-factors-humanity)
+
+- [FTC Demands Anthropic Executives Testify in Probe](https://www.axios.com/2026/10/26/ftc-ai-safety-probe-anthropic-openai)
