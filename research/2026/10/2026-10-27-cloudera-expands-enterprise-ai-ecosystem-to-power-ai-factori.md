@@ -21,3 +21,7 @@ Cloudera's Enterprise AI Ecosystem now includes:
 - **Cartesia:** Delivers infrastructure solutions to support AI workloads.
 
 This collaboration aims to create AI factories that enable enterprises to transform data into actionable insights and autonomous actions continuously. ([globenewswire.com](https://www.globenewswire.com/news-release/2026/10/27/3388987/31982/en/cloudera-expands-enterprise-ai-ecosystem-to-power-ai-factories-anywhere.html?utm_source=openai))
+
+## Sources
+
+- [Cloudera Expands Enterprise AI Ecosystem to Power AI Factories Anywhere](https://www.globenewswire.com/news-release/2026/10/27/3388987/31982/en/cloudera-expands-enterprise-ai-ecosystem-to-power-ai-factories-anywhere.html)
