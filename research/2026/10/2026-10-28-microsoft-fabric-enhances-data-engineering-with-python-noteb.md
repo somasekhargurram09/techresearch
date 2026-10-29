@@ -22,3 +22,7 @@ The Python Notebook integration within Microsoft Fabric is designed to seamlessl
 - **Public Preview Availability:** The feature is currently accessible in public preview, allowing users to explore and provide feedback before the official release.
 
 This development is part of Microsoft's ongoing efforts to enhance the capabilities of Fabric, aiming to provide a comprehensive and versatile platform for modern data engineering needs.
+
+## Sources
+
+- [Microsoft Fabric Roadmap](https://learn.microsoft.com/en-gb/fabric/release-plan/data-engineering)
