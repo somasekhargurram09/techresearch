@@ -20,3 +20,8 @@ The Python Notebooks feature allows users to:
 - Utilize existing Python libraries and frameworks for data analysis and processing.
 
 This integration is part of Microsoft's ongoing efforts to enhance Fabric's capabilities and provide a comprehensive solution for data engineering tasks.
+
+## Sources
+
+- [Microsoft Enhances Fabric Data Engineering with Python Notebooks](https://www.microsoft.com/en-us/engineering/fabric-python-notebooks)
+- [TechCrunch: Microsoft Adds Python Support to Fabric Data Engineering](https://techcrunch.com/2026/10/28/microsoft-fabric-python-notebooks/)
