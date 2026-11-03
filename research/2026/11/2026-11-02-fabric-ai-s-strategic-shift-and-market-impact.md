@@ -10,3 +10,7 @@ Fabric.AI, formerly known as StableX Technologies, has rebranded and refocused i
 ## Why It Matters
 
 This strategic pivot positions Fabric.AI to capitalize on the growing demand for AI infrastructure, particularly in data centers. By shifting focus from digital assets to AI hardware solutions, the company aims to tap into a rapidly expanding market. The substantial funding indicates strong investor confidence in this new direction.
+
+## Details
+
+The rebranding from StableX Technologies to Fabric.AI reflects a significant shift in the company's business model. The private placement of convertible preferred stock and warrants is intended to fund the development of MicroLED-based optical interconnects for AI data centers. This move aligns with the company's vision to integrate AI into industrial processes, moving beyond traditional software applications. ([stockti.com](https://stockti.com/ai-jitters-push-five-penny-tech-stocks-into-spotlight?utm_source=openai))
