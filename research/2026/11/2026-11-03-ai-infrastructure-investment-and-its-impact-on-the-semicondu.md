@@ -14,3 +14,8 @@ The rapid expansion of AI infrastructure has led to massive investments in data 
 ## Details
 
 Intel's CCPG segment reported a 5% year-over-year decline in revenue for Q3 2026, amounting to $8.1 billion. The company anticipates a 10% contraction in the PC market for 2027, influenced by high memory prices and component shortages. Additionally, data-center growth may be constrained due to supply limitations. These factors have contributed to a nearly 50% decrease in Intel's market value since its peak in June 2026. ([tomshardware.com](https://www.tomshardware.com/pc-components/cpus/intels-woes-wipe-out-usd1-trillion-of-semiconductor-market-cap-in-one-day-pc-market-bloodbath-leaves-few-chip-stocks-unscathed?utm_source=openai))
+
+## Sources
+
+- [Intel's woes wipe out $1 trillion of semiconductor market cap in one day](https://www.tomshardware.com/pc-components/cpus/intels-woes-wipe-out-usd1-trillion-of-semiconductor-market-cap-in-one-day-pc-market-bloodbath-leaves-few-chip-stocks-unscathed)
+- [How major US stock indexes fared Tuesday 11/3/2026](https://apnews.com/article/95ac47c160dba546cbbdf72c10010e2c)
